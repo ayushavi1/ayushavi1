@@ -45,13 +45,15 @@
 
 ## My Github Statistics
 
-<p align="centre">
+<p align="center">
 
 ![Ayush Datta Jaiswal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushavi1&show_icons=true&theme=tokyonight)
 
 </p>
-<p align="centre">
+<p align="center">
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushavi1)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
 
 <br/>
