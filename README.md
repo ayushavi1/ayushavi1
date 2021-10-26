@@ -34,25 +34,23 @@
 </br>
 </br>
 
-## My GitHub Streak
-
-<p align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushavi1&theme=tokyonight)](https://git.io/streak-stats)
-
-</p>
-</br>
-
 ## My Github Statistics
 
 <p align="center">
 
-![Ayush Datta Jaiswal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushavi1&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushavi1&theme=merko)](https://git.io/streak-stats)
+
+</p>
+</br>
+
+<p align="center">
+
+![Ayush Datta Jaiswal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushavi1&show_icons=true&theme=merko)
 
 </p>
 <p align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushavi1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushavi1&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
 
