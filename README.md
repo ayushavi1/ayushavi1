@@ -4,7 +4,7 @@
 ## About Me
 
 - I am tech enthusiast who loves learning about new technology.
-- I am a Pre Final Year in Electronics and Communication Engineering at IIT Guwahati with a minor in Computer Science.
+- I am a Pre Final Year student in Electronics and Communication Engineering department at IIT Guwahati with a minor in Computer Science.
 - I am interested in contributing to the Open Source Community.
 - I have worked on a few Development Projects at IIT Guwahati.
 - I love watching cricket and anime.
